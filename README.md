@@ -65,15 +65,6 @@
 - Background image, character sprites, lemons, and sound effects are stored in the `assets/` directory.
 - Ensure all assets are correctly placed for the game to run smoothly.
 
-## Credits
-
-- Developed by 
-    -[AbelNigus]
-    -[EyuelDemrew]
-    -[Fraol7](https://github.com/Fraol7)
-    -[Zrobera](https://github.com/Zrobera)
-- [Pygame](https://www.pygame.org/) was used for game development.
-
 ## License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
